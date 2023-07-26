@@ -16,7 +16,7 @@ There are currently two official themes built on Poole:
 * [Lanyon](http://lanyon.getpoole.com)
 
 Individual theme feedback and bug reports should be submitted to the theme's individual repository.
-
+ 
 
 ## Contents
 
